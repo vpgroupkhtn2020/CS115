@@ -7,5 +7,7 @@ Team member:
 We're from University of Information and Technology
 
 About Repo:
+
 CS112.pdf - presentation of our team
+
 Submit.xlsl - Submissions result of Pracice Algorithm Design
